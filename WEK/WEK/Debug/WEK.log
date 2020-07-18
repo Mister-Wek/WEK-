@@ -1,0 +1,3 @@
+﻿  WEK.cpp
+C:\Users\мвм\Desktop\важные проекты с++\WEK\WEK\WEK.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WEK.vcxproj -> C:\Users\мвм\Desktop\важные проекты с++\WEK\Debug\WEK.exe
